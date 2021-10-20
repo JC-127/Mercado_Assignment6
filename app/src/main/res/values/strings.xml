@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Selection Activity</string>
+    <string name="second_screen_name">Display Activity</string>
+    <string name="display_name">Displaying Selected Cat:</string>
+    <string name="launcher_name">Cat Image Viewer App</string>
+    <string name="prompt">Please Select a Cat:</string>
+    <string name="intent_cat_name">edu.temple.mercado_assignment5.NAME</string>
+    <string name="intent_cat_desc">edu.temple.mercado_assignment5.DESC</string>
+    <string name="intent_cat_img">edu.temple.mercado_assignment5.IMG</string>
+</resources>
